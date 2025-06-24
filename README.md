@@ -37,7 +37,7 @@ Untuk memberikan pengalaman pengguna yang lebih alami, chatbot ini dilengkapi de
 
 ## Instalasi
 
-1.  **Kloning Repositori** (jika ada):
+1.  **Kloning Repositori**:
     ```bash
     git clone https://github.com/attmhd/rag-chatbot.git
     cd /rag-chatbot
