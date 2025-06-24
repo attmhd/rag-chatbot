@@ -39,8 +39,8 @@ Untuk memberikan pengalaman pengguna yang lebih alami, chatbot ini dilengkapi de
 
 1.  **Kloning Repositori** (jika ada):
     ```bash
-    git clone <url-repositori-anda>
-    cd <nama-direktori>
+    git clone https://github.com/attmhd/rag-chatbot.git
+    cd /rag-chatbot
     ```
 
 2.  **Buat dan Aktifkan Lingkungan Virtual**:
